@@ -1,0 +1,4 @@
+id_from, id_to, since, department
+2, 1, 2022, SALES
+1, 2, 2019, RD
+2, 3, 2021, RD
